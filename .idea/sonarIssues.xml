@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../agileassetsweb-project/ams-configurer/src/main/resources/schema/agile_standard/groovy/SetRatingTo5.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../agileassetsweb-project/ams-configurer/src/main/resources/schema/agile_standard/modules/26/testData/SYSTEM_STARTUP_JOB_DET.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../agileassetsweb-project/ams-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/.dockerignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/DataEmulatorServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/controller/EmulatorController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/controller/rest/EmulatorRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/dto/Indicator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/dto/IndicatorBounds.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/dto/IndicatorGroupResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/dto/IndicatorResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/dto/LocationDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/dto/TemperatureIndicator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/dto/TemperatureMeasurementUnit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/model/Building.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/model/Office.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/model/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/model/Room.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/repository/BuildingRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/repository/PersonRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/repository/RoomRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/Bounds.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/CO2IndicatorPopulationStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/Co2IndicatorPopulationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/Co2IndicatorPopulationStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/DataPublisher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/DataPublisherImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/EmulatorService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/EmulatorServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/GeneratorService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/GeneratorServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/HumidityIndicatorPopulationStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/IndicatorBounds.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/IndicatorGeneratorService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/IndicatorGeneratorServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/IndicatorPopulationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/IndicatorPopulationStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/IndicatorPublisherService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/IndicatorPublisherServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/TemperatureIndicatorPopulationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/service/TemperatureIndicatorPopulationStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/util/IndicatorComposer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/util/IndicatorPopulationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/util/Random.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/java/com/team2/dataemulatorservice/util/RandomWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/resources/db/migration/V2022_06_22_1142__Initialize_database.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data-emulator-service/src/main/resources/db/migration/V2022_06_23_0135__Add_test_data.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

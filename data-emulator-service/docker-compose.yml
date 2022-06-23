@@ -1,0 +1,40 @@
+version: '3'
+
+services:
+  emulator-service:
+    container_name: emulator-service
+    build:
+      context: .
+    ports:
+      - '${EMULATOR_SERVICE_PORT}:8080'
+    environment:
+      EMULATOR_SERVICE_POSTGRES_URL: ${EMULATOR_SERVICE_POSTGRES_URL}
+      EMULATOR_SERVICE_POSTGRES_USERNAME: ${EMULATOR_SERVICE_POSTGRES_USERNAME}
+      EMULATOR_SERVICE_POSTGRES_PASSWORD: ${EMULATOR_SERVICE_POSTGRES_PASSWORD}
+    depends_on:
+      - emulator-postgres
+    networks:
+      - emulator-service-network
+
+  emulator-postgres:
+    container_name: emulator-service-postgres-db
+    image: 'postgres:13.1-alpine'
+    restart: always
+    ports:
+      - '${EMULATOR_SERVICE_POSTGRES_PORT}:5432'
+    environment:
+      POSTGRES_DB: ${EMULATOR_SERVICE_POSTGRES_DB}
+      POSTGRES_USER: ${EMULATOR_SERVICE_POSTGRES_USERNAME}
+      POSTGRES_PASSWORD: ${EMULATOR_SERVICE_POSTGRES_PASSWORD}
+    volumes:
+      - emulator-service-pg-data:/var/lib/postgresql/data
+    networks:
+      - emulator-service-network
+
+volumes:
+  emulator-service-pg-data:
+    driver: local
+
+networks:
+  emulator-service-network:
+    driver: bridge

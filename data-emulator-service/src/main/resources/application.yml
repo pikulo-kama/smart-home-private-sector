@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: ${EMULATOR_SERVICE_POSTGRES_URL}
+    username: ${EMULATOR_SERVICE_POSTGRES_USERNAME}
+    password: ${EMULATOR_SERVICE_POSTGRES_PASSWORD}
+
+
+indicator.bounds:
+  temperature:
+    lower: 14
+    upper: 28
+  humidity:
+    lower: 1201.123
+    upper: 3902.312
+  carbon.dioxide:
+    lower: 1201
+    upper: 3902
